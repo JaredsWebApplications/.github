@@ -10,11 +10,14 @@ The structure of this directory is as follows:
   - Cella Ant 0x15
   - Sorting Olympics
   - Balloon Juice
+- Database
+  - University Manager
+- Documentation
+  - Python Documentation
 - React
   - Expresso
   - Grok 19
-- Database
-  - University Manager
+
 The goal was not make this server a development environment, rather a showcase that can be easily replicated.
 A [script](https://github.com) has been developed to help automate this process.
 The ports will start from 5000 and go from there.
