@@ -6,10 +6,10 @@ A base Ubuntu 21.04 server release is used as the primary operating system to ho
 At `/var/lib/webapplications` we store all the Git repositories and can pull incrementally for changes made offsite.
 The structure of this directory is as follows:
 - Algorithms
-  - RPN Calculator
   - Cella Ant 0x15
   - Sorting Olympics
   - Balloon Juice
+  - RPN Calculator
 - Database
   - University Manager
 - Documentation
@@ -24,5 +24,5 @@ The ports will start from 5000 and go from there.
 The following port map can be seen here:
 
 - 5000: personal website
-- 5001: sorting-olypmics
+- 5001: cell-ant
 - ETC
